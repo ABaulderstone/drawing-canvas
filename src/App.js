@@ -11,6 +11,7 @@ class App extends Component {
             <div> 
                 <h1> Welcome To Your Drawing Pad</h1>
                 <Canvas />
+                
             </div>
         );
     }
